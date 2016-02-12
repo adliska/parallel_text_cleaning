@@ -1,6 +1,7 @@
 # Cleaning of Parallel Texts for Machine Translation
 
-Code for my BSc thesis.
+Code for my BSc thesis. More info at
+[http://www.adliska.com/publications/#theses](http://www.adliska.com/publications/#theses).
 
 Abstract: The aim of the thesis is to design, implement and manually
 evaluate filters for parallel data cleaning, focused on statistical machine
